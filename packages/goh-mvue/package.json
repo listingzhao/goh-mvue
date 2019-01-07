@@ -1,0 +1,31 @@
+{
+  "name": "goh-mvue",
+  "version": "0.1.0",
+  "description": "hahaha",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/listingzhao/goh-mvue.git"
+  },
+  "keywords": [
+    "goh-mvue"
+  ],
+  "author": "listing.zhao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/listingzhao/goh-mvue/issues"
+  },
+  "homepage": "https://github.com/listingzhao/goh-mvue#readme",
+  "devDependencies": {
+    "babel-core": "^7.0.0-bridge.0",
+    "babel-jest": "^23.6.0",
+    "codecov": "^3.1.0",
+    "cross-env": "^5.2.0",
+    "eslint": "^5.10.0",
+    "jest": "^23.6.0",
+    "rollup": "^0.67.4"
+  }
+}

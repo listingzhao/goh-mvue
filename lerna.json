@@ -1,0 +1,16 @@
+{
+  "command": {
+    "publish": {
+      "ignoreChanges": [
+        "**/__mocks__/**",
+        "**/__tests__/**",
+        "**/*.md"
+      ]
+    }
+  },
+  "packages": [
+    "packages/*"
+  ],
+  "npmClient": "yarn",
+  "version": "independent"
+}

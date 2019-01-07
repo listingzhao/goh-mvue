@@ -1,0 +1,12 @@
+{
+  "extends": "standard",
+  "parser": "babel-eslint",
+  "globals": {
+    "wx": true,
+    "App": true,
+    "Page": true,
+    "Component": true,
+    "getApp": true,
+    "getPage": true
+  }
+}

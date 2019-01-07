@@ -1,0 +1,9 @@
+node_modules/
+coverage/
+docs/.vuepress/dist/
+
+.DS_Store
+yarn.lock
+npm-debug.log
+yarn-error.log
+lerna-debug.log
